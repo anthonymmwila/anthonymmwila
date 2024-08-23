@@ -1,8 +1,7 @@
 # Hi, I’m Anthony.
 I am an aspiring Software Engineer-cum-UI/UX 
-Developer, and currently pursuing my Bachelor's
-degree of Science In Computing, (BscCOM)
-with Cavendish University Zambia.
+Developer. I am currently pursuing my Bachelor's
+degree of Science In Computing, (BscCOM) at Cavendish University Zambia.
 Along with supposed expertise in Full-stack 
 development, I possess an unwavering and fierce 
 passion for UI/UX design and development. Being
