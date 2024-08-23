@@ -4,14 +4,14 @@ Developer. I am currently pursuing my Bachelor's
 degree of Science In Computing, (BscCOM) at Cavendish University Zambia.
 Along with supposed expertise in Full-stack 
 development, I possess an unwavering and fierce 
-passion for UI/UX design and development. Being
+passion for UI/UX design and development, being
 able to provide users with that exquisite feel
 and experience is what excites me the most.
 Throughout the course of my academic journey so
-far, I have gained reasonable experience in various 
+far, I have gained reliable experience in various 
 fields of the industry, including System Analysis & 
 Design, Computer Hardware & Maintenance, Computer 
-Ethics & Professionalism... and many more. I have
+Ethics & Professionalism, and many more. I have
 also worked in teams, both in and outside the Computer 
 Science scope and this has added to my experience and
 skill in Communication and Collaboration.
